@@ -1,0 +1,69 @@
+{
+    "Burgers":[
+        {
+            "Id": "0",
+            "Name": "Sucuk Burger",
+            "Price":"161,90 TL",
+            "Description":"Dana sucuk, cheddar peyniri, karamelize soğan, turşu, yeşillik, özel sos. Patates kızartması ile.",
+            "ImgSrc":"../Json/img/content/meatBurger/sucuk burger.jpg",
+            "Type":"Meat"
+        },
+        {
+            "Id": "1",
+            "Name": "Etçi Mehmet Burger",
+            "Price":"100",
+            "ImgSrc":"../Json/img/content/meatBurger/Etçi Mehmet Burger.jpg",
+            "Type":"Meat"
+        },
+        {
+            "Id": "2",
+            "Name": "İsli Burger",
+            "Price":"100",
+            "ImgSrc":"../Json/img/content/meatBurger/isli burger.jpg",
+            "Type":"Meat"
+        },
+        {
+            "Id": "3",
+            "Name": "Hellim Chicken Burger",
+            "Price":"100",
+            "ImgSrc":"../Json/img/content/chickenBurger/hellım tavuk burger.jpg",
+            "Type":"Chicken"
+            
+        },
+        {
+            "Id": "4",
+            "Name": "Mexican Burger",
+            "Price":"100",
+            "ImgSrc":"../Json/img/content/meatBurger/isli burger.jpg",
+            "Type":"Meat"
+        },
+        {
+            "Id": "5",
+            "Name": "Gozo Chicken Burger",
+            "Price":"100",
+            "ImgSrc":"../Json/img/content/chickenBurger/gozo chicken.jpg",
+            "Type":"Chicken"
+        },
+        {
+            "Id": "6",
+            "Name": "Big Burger",
+            "Price":"100",
+            "ImgSrc":"../Json/img/content/meatBurger/bıg burger.jpg",
+            "Type":"Meat"
+        },
+        {
+            "Id": "7",
+            "Name": "BBQ Burger",
+            "Price":"100",
+            "ImgSrc":"../Json/img/content/meatBurger/BBQ Burger.jpg",
+            "Type":"Meat"
+        },
+        {
+            "Id": "8",
+            "Name": "Helim Burger",
+            "Price":"100",
+            "ImgSrc":"../Json/img/content/meatBurger/hellim.jpg",
+            "Type":"Meat"
+        }
+    ]
+}
